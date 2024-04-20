@@ -5,9 +5,9 @@ from pyrogram.types import Message
 
 # Replace 'YOUR_API_ID', 'YOUR_API_HASH', and 'YOUR_BOT_TOKEN' with your actual values
 
-api_id = 
-api_hash = ''
-bot_token = ''
+api_id = 11973721
+api_hash = '5264bf4663e9159565603522f58d3c18'
+bot_token = '6353181790:AAEAcX6-7J9J8_e15R7_9GFz6ceb-PTvEY0'
 
 app = Client("my_bot", api_id=api_id, api_hash=api_hash, bot_token=bot_token)
 
